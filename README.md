@@ -53,6 +53,15 @@
 
 [Bloomberg Businessweek Graphics Blog](//bizweekgraphics.tumblr.com/)
 
+# How to teach #ddj 
+
+Dan Nguyen's ["Public Affairs Data Journalism I"](http://www.padjo.org/course_schedule/) at Standford University.
+
+Derek Willis's ["Data reporting"](http://dwillis.github.io/data-reporting/index.html) at Georgetown University.
+
+Simon Rogers' ["Intro to Data Journalism"](http://simonrogers.github.io/datajournalism/) at Medill. 
+
+
 # HTML/CSS & Making a Webpage
 
 [Make an website from scratch!](http://lenagroeger.s3.amazonaws.com/makeawebsite/makeawebsite.html)
