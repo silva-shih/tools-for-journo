@@ -16,11 +16,11 @@
 
 [Reveal js](https://github.com/hakimel/reveal.js): create slides using HTML.
 
-[Mr. Data Converter] (http://shancarter.github.io/mr-data-converter/): data coverter.
+[Mr. Data Converter](http://shancarter.github.io/mr-data-converter/): data coverter.
 
 [地號轉地圖](http://codepen.io/dz1984/full/NqgVPj/):data source: http://twland.ronny.tw/.
 
-[Baidu Index Scrapper] (https://github.com/longxiaofei/spider-BaiduIndex): python
+[Baidu Index Scrapper](https://github.com/longxiaofei/spider-BaiduIndex): python
 
 
 # Guides
