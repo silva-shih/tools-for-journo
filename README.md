@@ -6,7 +6,7 @@
 
 [Jieba](https://github.com/fxsjy/jieba):text segmentation. [Traditional Chinese](https://github.com/ldkrsi/jieba-zh_TW)/[Simplified Chinese](https://github.com/fxsjy/jieba).
 
-[web scraping](https://github.com/lorien/awesome-web-scraping)
+[web scrapper](https://github.com/lorien/awesome-web-scraping)
 
 [Google table convert](https://github.com/jsvine/google-table-converter): covert google spreadsheets into responsive HTML.
 
