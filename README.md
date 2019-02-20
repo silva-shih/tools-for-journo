@@ -20,6 +20,8 @@
 
 [地號轉地圖](http://codepen.io/dz1984/full/NqgVPj/):data source: http://twland.ronny.tw/.
 
+[Baidu Index Scrapper] (https://github.com/longxiaofei/spider-BaiduIndex): python
+
 
 # Guides
 [QZ's bad data gudie](https://github.com/Quartz/bad-data-guide)
