@@ -22,6 +22,15 @@
 
 [Baidu Index Scrapper](https://github.com/longxiaofei/spider-BaiduIndex): python
 
+[Marine Traffic](https://www.marinetraffic.com/en/ais/home/centerx:-12.1/centery:24.8/zoom:2): worldwide ship tracking.
+
+[Satellite imagery: Maxar](https://twitter.com/Maxar).
+
+[Satellite imagery: Planet Labs](https://www.planet.com/).
+
+
+
+
 
 # Guides
 [QZ's bad data gudie](https://github.com/Quartz/bad-data-guide)
